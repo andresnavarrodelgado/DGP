@@ -1,0 +1,1 @@
+Fichero de texto inicial para la rama B. Posteriormente se modificará.
