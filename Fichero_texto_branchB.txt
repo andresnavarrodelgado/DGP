@@ -1,1 +1,3 @@
-Fichero de texto inicial para la rama B. Posteriormente se modificará.
+El fichero de texto inicial para la rama B ha sido modificado. 
+
+La versión antigua no vale, queremos actualizarla.
